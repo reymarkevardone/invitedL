@@ -1,6 +1,7 @@
 
         body{
              font-family: Times New Roman;
+             font-size: 40px;
               background:white;
             color: black;
             text-align: center;
@@ -15,13 +16,13 @@
         }
         .welcome{
             color: black;
-            font-size: 27px;
+            font-size: 54px;
             font-weight: 
         }
         .top span{
           font-family: cursive;
             color: BLUE;
-            font-size: 25px;
+            font-size: 50px;
         }
         .info{
             border: 2px solid blue;
@@ -30,20 +31,20 @@
         }
         h1{
           font-family: cursive;
-          font-size: 50px;
+          font-size: 100px;
         }
         p{
           font: bold;
           font-family: Times New Roman;
-          font-size: 20px;
+          font-size: 40px;
         }
         b{
             color: blue;
-            font-size: 15px
+            font-size: 30px
         }
         h4{
           font-family: Times New Roman;
-          font-size: 18px;
+          font-size: 36px;
           
         }
         img{
