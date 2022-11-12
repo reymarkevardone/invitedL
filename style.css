@@ -1,0 +1,54 @@
+
+        body{
+             font-family: Times New Roman;
+              background:white;
+            color: black;
+            text-align: center;
+            background-repeat: no-repeat;
+            
+        }
+        .one{
+          border: 4px solid black;
+          padding: 5px;
+          margin: 1px;
+          background-color:#99ffff;
+        }
+        .welcome{
+            color: black;
+            font-size: 27px;
+            font-weight: 
+        }
+        .top span{
+          font-family: cursive;
+            color: BLUE;
+            font-size: 25px;
+        }
+        .info{
+            border: 2px solid blue;
+            padding: 20px;
+            margin: 10px;
+        }
+        h1{
+          font-family: cursive;
+          font-size: 50px;
+        }
+        p{
+          font: bold;
+          font-family: Times New Roman;
+          font-size: 20px;
+        }
+        b{
+            color: blue;
+            font-size: 15px
+        }
+        h4{
+          font-family: Times New Roman;
+          font-size: 18px;
+          
+        }
+        img{
+            height: 50%;
+            width: 50%;
+            border-radius: 100%;
+            
+        }
